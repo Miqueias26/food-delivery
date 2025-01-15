@@ -26,9 +26,38 @@ Food Delivery es un proyecto desarrollado con el objetivo de crear una plataform
 
 Sigue estos pasos para ejecutar el proyecto localmente:
 
-1. 🔧 **Clona este repositorio**:
-   ```bash
-   git clone https://github.com/Miqueias26/food-delivery.git
+🏙️ Navega al directorio del proyecto:
+cd food-delivery
+➕ Instala las dependencias:
+npm install
+🌝 Inicia el servidor de desarrollo:
+npm run dev
+🔍 Abre tu navegador y ve a http://localhost:5173 para ver la aplicación en acción.
+🙋🏼‍♂️ Contribución
 
-   cd food-delivery
+Si deseas contribuir al proyecto, sigue los pasos a continuación:
+
+🔠 Haz un fork del repositorio:
+git fork https://github.com/Miqueias26/food-delivery.git
+📚 Crea una rama para tu nueva funcionalidad o corrección de errores:
+git checkout -b mi-nueva-funcionalidad
+✍️ Realiza los cambios y realiza un commit:
+git commit -m "Agrega nueva funcionalidad"
+🔄 Sube tus cambios:
+git push origin mi-nueva-funcionalidad
+🔒 Abre un Pull Request para revisar tus cambios.
+🔒 Licencia
+
+Este proyecto está bajo la licencia MIT. Puedes usarlo libremente siguiendo los términos especificados.
+
+✨ ¡Gracias por visitar este repositorio! 🙏 Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme.
+
+
+Agora todos os passos estão no mesmo formato que você solicitou, com o código e a explicação logo abaixo de cada comando.
+
+
+
+
+
+
 
