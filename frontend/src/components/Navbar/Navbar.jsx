@@ -12,7 +12,7 @@ const Navbar = () => {
           {" home "}
         </li>
         <li onClick={() => setMenu("menu")} className={menu === "menu" ? "activate" : ""}>
-          menu
+          menus
         </li>
         <li className={menu === "mobile - app" ? "activate" : ""}>mobile-app</li>
         <li onClick={() => setMenu("contact us")} className="menu">
