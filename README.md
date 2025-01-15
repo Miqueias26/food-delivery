@@ -29,3 +29,6 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 1. 🔧 **Clona este repositorio**:
    ```bash
    git clone https://github.com/Miqueias26/food-delivery.git
+
+   cd food-delivery
+
