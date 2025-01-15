@@ -55,7 +55,11 @@ npm run dev
 🛏️ Estructura del Proyecto
 
 food-delivery/
+
+
 ├── public/
+
+
 ├── src/
 │   ├── components/
 │   ├── pages/
