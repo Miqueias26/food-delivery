@@ -26,34 +26,59 @@ Food Delivery es un proyecto desarrollado con el objetivo de crear una plataform
 
 Sigue estos pasos para ejecutar el proyecto localmente:
 
-🏙️ Navega al directorio del proyecto:
-cd food-delivery
-➕ Instala las dependencias:
-npm install
-🌝 Inicia el servidor de desarrollo:
-npm run dev
-🔍 Abre tu navegador y ve a http://localhost:5173 para ver la aplicación en acción.
-🙋🏼‍♂️ Contribución
+1. **🏙️ Navega al directorio del proyecto:**
+    ```bash
+    cd food-delivery
+    ```
+
+2. **➕ Instala las dependencias:**
+    ```bash
+    npm install
+    ```
+
+3. **🌝 Inicia el servidor de desarrollo:**
+    ```bash
+    npm run dev
+    ```
+
+4. **🔍 Abre tu navegador y ve a [http://localhost:5173](http://localhost:5173) para ver la aplicación en acción.**
+
+---
+
+## 🙋🏼‍♂️ Contribución
 
 Si deseas contribuir al proyecto, sigue los pasos a continuación:
 
-🔠 Haz un fork del repositorio:
-git fork https://github.com/Miqueias26/food-delivery.git
-📚 Crea una rama para tu nueva funcionalidad o corrección de errores:
-git checkout -b mi-nueva-funcionalidad
-✍️ Realiza los cambios y realiza un commit:
-git commit -m "Agrega nueva funcionalidad"
-🔄 Sube tus cambios:
-git push origin mi-nueva-funcionalidad
-🔒 Abre un Pull Request para revisar tus cambios.
-🔒 Licencia
+1. **🔠 Haz un fork del repositorio:**
+    ```bash
+    git fork https://github.com/Miqueias26/food-delivery.git
+    ```
 
-Este proyecto está bajo la licencia MIT. Puedes usarlo libremente siguiendo los términos especificados.
+2. **📚 Crea una rama para tu nueva funcionalidad o corrección de errores:**
+    ```bash
+    git checkout -b mi-nueva-funcionalidad
+    ```
+
+3. **✍️ Realiza los cambios y realiza un commit:**
+    ```bash
+    git commit -m "Agrega nueva funcionalidad"
+    ```
+
+4. **🔄 Sube tus cambios:**
+    ```bash
+    git push origin mi-nueva-funcionalidad
+    ```
+
+5. **🔒 Abre un Pull Request para revisar tus cambios.**
+
+---
+
+## 🔒 Licencia
+
+Este proyecto está bajo la **Licencia MIT**. Puedes usarlo libremente siguiendo los términos especificados en el archivo `LICENSE`.
 
 ✨ ¡Gracias por visitar este repositorio! 🙏 Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme.
 
-
-Agora todos os passos estão no mesmo formato que você solicitou, com o código e a explicação logo abaixo de cada comando.
 
 
 
