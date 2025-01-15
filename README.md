@@ -52,34 +52,6 @@ npm run dev
 
 🔍 Abre tu navegador y ve a http://localhost:5173 para ver la aplicación en acción.
 
-🛏️ Estructura del Proyecto
-
-food-delivery/
-
-
-├── public/
-
-
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   ├── main.jsx
-├── package.json
-├── vite.config.js
-
-public/: Archivos estáticos.
-
-src/: Código fuente principal del proyecto.
-
-components/: Componentes reutilizables.
-
-pages/: Páginas principales de la aplicación.
-
-App.jsx: Componente principal.
-
-main.jsx: Punto de entrada del proyecto.
-
 🙋🏼‍♂️ Contribución
 
 Si deseas contribuir al proyecto, sigue los pasos a continuación:
