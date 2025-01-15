@@ -20,6 +20,16 @@ CSS3: 🎨 Para un diseño atractivo y responsivo.
 
 ⌛ Flujo eficiente de trabajo facilitado por Vite.
 
+🗺️ Rutas Principales
+
+/: Página principal (Landing Page).
+
+/menu: Lista de platillos disponibles.
+
+/pedido: Página para crear y revisar pedidos.
+
+/contacto: Información de contacto.
+
 🗃️ Instalación
 
 Sigue estos pasos para ejecutar el proyecto localmente:
